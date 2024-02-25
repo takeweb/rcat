@@ -42,7 +42,7 @@ Until eternity.
 
 ## Example for args standard input
 ```
-% rcat - < tests/inputs/fox.txt
+% rcat < tests/inputs/fox.txt
 
 The quick brown fox jumps over the lazy dog.
 ```
